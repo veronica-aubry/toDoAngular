@@ -1,6 +1,6 @@
-# _Meal Tracker App_
+# _To Do List App_
 
-#### _Angular2 App Meal-tracking web app 3/25/2016_
+#### _Angular2 To Do List web app 3/22/2016_
 
 #### By _**Veronica Alley**_
 
